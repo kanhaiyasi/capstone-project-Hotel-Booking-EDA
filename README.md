@@ -18,14 +18,21 @@ The data used for this analysis comes from [provide source/links if applicable].
 # Project Structure
 
 1. Notebooks
+
 01_Data_Preparation.ipynb: Preprocessing and cleaning of the raw dataset.
+
 02_Exploratory_Analysis.ipynb: Detailed exploration and visualization of the data.
+
 03_Predictive_Modeling.ipynb: Machine learning models and predictions.
 
 2. Data
+
 raw_data/: Contains the original dataset.
+
 processed_data/: Cleaned and preprocessed datasets for analysis.
 
 3. Results
+
 visualizations/: Plots, charts, and visual representations of the data analysis.
+
 reports/: Summary reports and findings.
